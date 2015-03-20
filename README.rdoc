@@ -1,0 +1,9 @@
+== README
+This is the base set up for a ruby on rails application using AngularJS as the front end. 
+
+Make sure to change the Module name in /config/application.rb as well as  in 
+/config/initializers/session_store.rb:
+
+Make sure to change the Default angular app name in app/assets/javascript/app.js.coffee
+
+Also be sure to change the DB names to what you wish. 
